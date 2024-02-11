@@ -8,12 +8,15 @@ This project focuses on leveraging the Retrieval-Augmented Generation model comb
 
 ## 2. Question Answering Using Embeddings for Sports Analytics
 
-The second project component develops a Question and Answer (Q&A) system using ChatGPT and specialized embeddings tailored for sports analytics. This innovative system enables analysts and sports enthusiasts to interactively query sports-related datasets, obtaining deeper insights into performance metrics, strategies, and trends across various sports.
+Our project revolutionizes sports analytics by developing a sophisticated Q&A system powered by ChatGPT and embeddings. This system is specifically tailored for sports analysts and enthusiasts, providing a seamless platform to query sports-related datasets, with a special emphasis on retrieving information from the 2022 World Cup data. By leveraging advanced natural language processing techniques, it enables users to ask complex questions in plain language and receive meaningful answers, democratizing access to sports analytics and fostering data-driven decision-making in the sports industry.
 
 # Installation and Setup
 
 To get started with these projects, clone this repository to your local machine. Ensure you have Python 3.8+ installed, along with Jupyter Notebooks to run and interact with the provided notebooks.
 
+git clone https://github.com/SamuelDuong/JackBlog.github.io
+cd JackBlog.github.io
+pip install -r requirements.txt
 
 # Usage
 
@@ -31,7 +34,7 @@ To use the RAG system or the Q&A system:
 ## Question Answering Using Embeddings for Sports Analytics
 
 - Open `Question_answering_using_embeddings.ipynb`
-- Execute the notebook cells sequentially to initialize the system and start querying.
+- Execute the notebook cells sequentially to initialize the system and start querying information from the 2022 World Cup data.
 
 # Contributing
 
