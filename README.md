@@ -1,3 +1,19 @@
+# Project Overview
+
+This repository hosts two innovative projects aimed at advancing data exploration and analysis in distinct domains using cutting-edge technologies.
+
+## 1. Implementing a Retrieval-Augmented Generation (RAG) System with OpenAI's API for IMDB Review
+
+This project focuses on leveraging the Retrieval-Augmented Generation model combined with Langchain and OpenAI's API to create a sophisticated data retrieval system. Specifically designed for the IMDB media dataset, it allows users to efficiently retrieve and summarize a broad spectrum of media-related information. This component empowers seamless exploration and analysis of media content, enhancing understanding and insights.
+
+## 2. Question Answering Using Embeddings for Sports Analytics
+
+The second project component develops a Question and Answer (Q&A) system using ChatGPT and specialized embeddings tailored for sports analytics. This innovative system enables analysts and sports enthusiasts to interactively query sports-related datasets, obtaining deeper insights into performance metrics, strategies, and trends across various sports.
+
+# Installation and Setup
+
+To get started with these projects, clone this repository to your local machine. Ensure you have Python 3.8+ installed, along with Jupyter Notebooks to run and interact with the provided notebooks.
+
 
 # Usage
 
